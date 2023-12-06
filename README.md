@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm acoidaan</h1>
-<h3 align="center">Studying Computer Engineer</h3>
+<h3 align="center">Acoidan Martín</h3>
 
 - 🔭 I’m currently studying in **University of La Laguna**
 
