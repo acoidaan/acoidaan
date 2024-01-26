@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying in **University of La Laguna**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++, Assembly**
 
 - 📫 How to reach me **acoidanmartinconrado@gmail.com**
 
