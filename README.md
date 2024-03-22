@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm acoidaan</h1>
-<h3 align="center">Acoidan Martín</h3>
+<h3 align="center">Acoidan Martín Conrado</h3>
 
 - 🔭 I’m currently studying in **University of La Laguna**
 
-- 🌱 I’m currently learning **C++, Assembly**
+- 🌱 I’m currently learning **C++, MIPS32**
 
 - 📫 How to reach me **acoidanmartinconrado@gmail.com**
 
