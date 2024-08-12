@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Lenguajes & Tecnologías ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,bash/>" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,bash" />" /><br>
 </div>
 
 <br/>
