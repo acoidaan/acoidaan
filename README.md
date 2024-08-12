@@ -14,9 +14,9 @@
  
  🌱 Estoy aprendiendo **C++, bash, Linux**
 
-💬 Contacta conmigo a través de **[instragram](https://instagram.com/acoidaan)** o **acoidanmartinconrado@gmail.com**
+💬 Contacta conmigo a través de **[instagram](https://instagram.com/acoidaan)** o **acoidanmartinconrado@gmail.com**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ **¡Apuntes gratis sobre el grado de Ingeniería Informática [aquí](https://wuolah.com/ull-escuela-superior-ingenieria-tecnologia-2/grado-ingenieria-informatica?referral=acoiaan4)!**
 
  </div>
  
