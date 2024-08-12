@@ -16,7 +16,7 @@
 
 💬 Contacta conmigo a través de **[instagram](https://instagram.com/acoidaan)** o **acoidanmartinconrado@gmail.com**
 
-⚡ **¡Apuntes gratis sobre el grado de Ingeniería Informática [aquí](https://wuolah.com/ull-escuela-superior-ingenieria-tecnologia-2/grado-ingenieria-informatica?referral=acoiaan4)!**
+⚡ **¡Apuntes gratis sobre el grado de Ingeniería Informática **[aquí]**!(https://wuolah.com/profile/acoidaan)
 
  </div>
  
