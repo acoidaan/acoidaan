@@ -22,7 +22,7 @@
   <hr><br>
  <a href="https://wuolah.com/profile/acoidaan" target="_blank">
    <strong style="font-size: 18px;">⚡Apuntes Gratis Ingeniería Informática ULL⚡</strong>
-  <img src="https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/7070c4e6-a857-455f-9ea9-9a2335de7c35.png" alt="Wuolah Logo" style="width: 50%; max-width: 300px; display: block; margin: 20px auto;">
+  <img src="https://imgur.com/HnqIUpq.png" alt="Wuolah Logo" style="width: 50%; max-width: 300px; display: block; margin: 20px auto;">
   <br>
 
  </a>
