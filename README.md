@@ -12,7 +12,7 @@
  
  🔭 Estudiando en **Universidad de La Laguna**
  
- 🌱 Estoy aprendiendo **C++, bash, Linux**
+ 🌱 Estoy aprendiendo **C++, Bash, R, Verilog**
  
  💬 Contacta conmigo a través de **[instagram](https://instagram.com/acoidaan)** o **acoidanmartinconrado@gmail.com**
 
