@@ -1,6 +1,3 @@
-Aquí tienes el código actualizado con el enlace a tu perfil de LinkedIn:
-
-```html
 <h3 align="left">Hi👋! I'm Acoidan Martín, backend wannabe</h3>
 
 ###
@@ -51,4 +48,3 @@ Aquí tienes el código actualizado con el enlace a tu perfil de LinkedIn:
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/acoidaan/acoidaan/output/snake.svg" alt="Snake animation" />
-```
